@@ -24,9 +24,6 @@ By the end of this tutorial, you’ll have a better understanding of NLP and wil
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
 This video is for Python developers who have basic knowledge of NLP and want to make their NLP applications smarter by implementing deep learning.
-### Technical Requirements
-This course has the following software requirements:<br/>
-...
 
 ## Related Products
 * [Getting Started with NLP and Deep Learning with Python [Video]](https://www.packtpub.com/big-data-and-business-intelligence/getting-started-nlp-and-deep-learning-python-video?utm_source=github&utm_medium=repository&utm_campaign=9781789138894)
